@@ -1,8 +1,8 @@
-# SAS Code
+# SAS Repo
 
 This repo contains various notebooks of SAS code. 
 
-Use cases.
+### Use cases.
 
 * Import CSV file of `BA_ID` and match email addreses from the `T_TBA01_CUSTOMER_FACILITY` table. 
 * Complete an inner join between two different tables.
@@ -12,5 +12,10 @@ Use cases.
 
 ***
 
-* http://support.sas.com/resources/papers/proceedings12/333-2012.pdf
-* [Logon Page] (https://odamid.oda.sas.com/SASLogon/login?service=https%3A%2F%2Fodamid.oda.sas.com%2FSASODAControlCenter%2Fj_spring_cas_security_check)
+# Helpful Links and Pages Realted to SAS
+
+* [The Steps to Follow in a Multiple Regression Analysis](http://support.sas.com/resources/papers/proceedings12/333-2012.pdf)
+* [Log on Page for SAS Studio](https://odamid.oda.sas.com/SASLogon/login?service=https%3A%2F%2Fodamid.oda.sas.com%2FSASODAControlCenter%2Fj_spring_cas_security_check)
+
+***
+GTA
